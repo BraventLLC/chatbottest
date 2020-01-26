@@ -18,7 +18,7 @@ class SuggestedActionsBot extends ActivityHandler {
             const text = context.activity.text;
 
             // Create an array with the valid color options.
-            const validColors = ['Red', 'Blue', 'Yellow', 'AAAA'];
+            const validColors = ['Red', 'Blue', 'Yellow', 'AAAA', 'BBBB'];
 
             // If the `text` is in the Array, a valid color was selected and send agreement.
             if (validColors.includes(text)) {
@@ -59,7 +59,7 @@ class SuggestedActionsBot extends ActivityHandler {
      * @param {TurnContext} turnContext A TurnContext instance containing all the data needed for processing this conversation turn.
      */
     async sendSuggestedActions(turnContext) {
-        var reply = MessageFactory.suggestedActions(['Red', 'Yellow', 'Blue','AAAA'], 'What is the best color?');
+        var reply = MessageFactory.suggestedActions(['Red', 'Yellow', 'Blue','AAAA', 'BBBB'], 'What is the best color?');
         await turnContext.sendActivity(reply);
     }
 }
