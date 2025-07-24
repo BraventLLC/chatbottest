@@ -1,0 +1,2 @@
+Domain,Base Domain,status_code,final_url,url_tag_count,pdfs_in_urls,sitemap_locations_from_index,robots,crawl_delay,sitemap_locations_from_robotstxt
+www.acquisition.gov,acquisition.gov,200,https://www.acquisition.gov/sitemap.xml,0,,"['https://www.acquisition.gov/sitemap.xml?page=1', 'https://www.acquisition.gov/sitemap.xml?page=2']",OK,,[]

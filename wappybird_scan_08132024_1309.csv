@@ -1,0 +1,9 @@
+Domain,Base Domain,HOST,URL,CATEGORY,NAME,VERSION
+www.acquisition.gov,acquisition.gov,www.acquisition.gov,https://www.acquisition.gov/,CMS,Drupal,10
+www.acquisition.gov,acquisition.gov,www.acquisition.gov,https://www.acquisition.gov/,CDN,Google Cloud CDN,unknown
+www.acquisition.gov,acquisition.gov,www.acquisition.gov,https://www.acquisition.gov/,Web servers,Apache HTTP Server,unknown
+www.acquisition.gov,acquisition.gov,www.acquisition.gov,https://www.acquisition.gov/,Programming languages,PHP,8.1.29
+www.acquisition.gov,acquisition.gov,www.acquisition.gov,https://www.acquisition.gov/,IaaS,Google Cloud,unknown
+www.acquisition.gov,acquisition.gov,www.acquisition.gov,https://www.acquisition.gov/,Miscellaneous,HTTP/3,unknown
+www.acquisition.gov,acquisition.gov,www.acquisition.gov,https://www.acquisition.gov/,Security,HSTS,unknown
+www.acquisition.gov,acquisition.gov,www.acquisition.gov,https://www.acquisition.gov/,Tag managers,Google Tag Manager,unknown

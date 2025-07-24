@@ -1,0 +1,4 @@
+Domain,Base Domain,category,level,description,method,parameter,url,body,referer,wstg,auth,module
+www.acquisition.gov,acquisition.gov,Content Security Policy Configuration,1,CSP is not set,GET,,http://www.acquisition.gov/,,,"['WSTG-CONF-12', 'OSHP-Content-Security-Policy']",,csp
+www.acquisition.gov,acquisition.gov,HTTP Secure Headers,1,X-Frame-Options is not set,GET,,http://www.acquisition.gov/,,,['OSHP-X-Frame-Options'],,http_headers
+www.acquisition.gov,acquisition.gov,HTTP Secure Headers,1,X-Content-Type-Options is not set,GET,,http://www.acquisition.gov/,,,['OSHP-X-Content-Type-Options'],,http_headers

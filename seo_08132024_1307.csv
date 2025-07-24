@@ -1,0 +1,2 @@
+Domain,Base Domain,Platforms,Sitemap.xml,Sitemap Final URL,Sitemap items,PDFs in sitemap,Sitemaps from index,Robots.txt,Crawl delay,Sitemaps from robots,Total URLs,Est time to index,Main tags found,Search found,Warnings,/,/privacy
+www.acquisition.gov,acquisition.gov,['Twitter Bootstrap'],OK,https://www.acquisition.gov/sitemap.xml,0,,"['https://www.acquisition.gov/sitemap.xml?page=1', 'https://www.acquisition.gov/sitemap.xml?page=2']",OK,,[],6234,Unknown,True,False,{},"{'date': None, 'description': None, 'title': 'Home | Acquisition.GOV'}",404
